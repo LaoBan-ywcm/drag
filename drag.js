@@ -6,7 +6,9 @@ function drag(){
 	oDiv.onmouseup = function(){
 		var oDiv = document.getElementById('new');
 	}
+
 	oDiv.onmousedown = function(){
+
 		
 	}
 }
